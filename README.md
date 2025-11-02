@@ -17,9 +17,6 @@ Dataset Location: Ensure that the SolarPrediction.csv file is in the same direct
 🛠️ Installation Instructions
 Clone the repository:
 
-git clone https://github.com/yajasarora/Solar-Energy-Prediction.git
-cd Solar-Energy-Prediction
-Install the required dependencies: Make sure you have Python 3.x installed. Then, install the necessary packages:
 
 pip install -r requirements.txt
 Run the Jupyter Notebook: Open the Jupyter Notebook main.ipynb to explore the analysis:
